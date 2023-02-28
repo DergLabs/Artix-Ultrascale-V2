@@ -8,7 +8,7 @@ This repo contains the original Altium design files, schematic PDF and a folder 
 
 If you have any questions, do not heistate to reach out to me at "Dragon Ejoyer#1101" on Discord! 
 
-The memory interface and pin-out was determined using Xilinx Vivado. 
+The memory interface and pin-out was determined using Xilinx Vivado. I used the Micron MT40A2G8VA-062E reference part. A pin compatible and available part is the MT40A2G8GSA-063E. This is the part I used for the layout. 
 
 Due to the cost, I do not plan on fabricating this board at this time. I cannot guarentee that it works in any way!!! If you decide to fab this board or use the design for yourself, you do so at your own risk. 
 
