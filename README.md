@@ -14,4 +14,4 @@ Due to the cost, I do not plan on fabricating this board at this time. I cannot 
 
 The PCB is roughly the size of an iPhone 14 Pro Max, for those who are curious. 
 
-![New Ultrascale+ Board!](https://imgur.com/a/6OIIwEj)
+![New Ultrascale+ Board!](https://imgur.com/gallery/6OIIwEj)
